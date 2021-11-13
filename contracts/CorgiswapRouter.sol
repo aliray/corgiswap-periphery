@@ -1,4 +1,4 @@
-pragma solidity ^0.8.2;
+pragma solidity =0.6.6;
 
 import "./libraries/TransferHelper.sol";
 import "./libraries/CorgiswapV2Library.sol";
